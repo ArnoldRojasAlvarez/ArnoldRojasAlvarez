@@ -146,19 +146,3 @@ I like to build things to learn — from an [online chat in Assembly](https://gi
 🔒 Exploring security — CTFs, web exploitation & crypto challenges
 ```
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArnoldRojasAlvarez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldRojasAlvarez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArnoldRojasAlvarez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
