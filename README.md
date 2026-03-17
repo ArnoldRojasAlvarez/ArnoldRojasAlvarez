@@ -1,7 +1,7 @@
 <h1 align="center">Arnold Jafeth Alvarez Rojas</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student | VR Developer | Data Engineering | Security</strong>
+  <strong>Computer Engineering Student at TEC Costa Rica</strong>
 </p>
 
 <p align="center">
@@ -15,16 +15,18 @@
 
 ### About Me
 
-Computer Engineering student at **Instituto Tecnologico de Costa Rica (TEC)** with hands-on experience in **VR development**, **data analysis pipelines**, and **software security**. Currently collaborating on an international research project with **MacEwan University (Canada)**, building VR simulations for Meta Quest with Unity. Experienced in leveraging generative AI tools to accelerate development workflows.
+Computer Engineering student at **Instituto Tecnologico de Costa Rica (TEC)**. Currently learning about **VR development**, **data engineering**, and **security** while collaborating on an international research project with **MacEwan University (Canada)**, where I'm helping build VR simulations for Meta Quest with Unity.
 
-- Working toward the **Databricks Data Engineer Associate** certification
-- Building VR training environments for **Meta Quest** with Unity & C#
-- International collaboration experience with biweekly presentations in English
-- Background in **security auditing** (Kali Linux, web exploitation, cryptographic analysis)
+I like to build things to learn — from an [online chat in Assembly](https://github.com/ArnoldRojasAlvarez/Chat-online-en-Ensamblador) to [music-reactive smart lighting](https://github.com/ArnoldRojasAlvarez/tapo-beats) with Alexa voice control.
+
+- Currently preparing for the **Databricks Data Engineer Associate** certification
+- Learning to build VR training environments for **Meta Quest** with Unity & C#
+- Exploring **security** fundamentals (Kali Linux, web exploitation, crypto)
+- Using **AI tools** (Claude Code) to accelerate my learning and development
 
 ---
 
-### Tech Stack
+### What I'm Learning & Using
 
 <table>
   <tr>
@@ -138,10 +140,10 @@ Computer Engineering student at **Instituto Tecnologico de Costa Rica (TEC)** wi
 ### Current Focus
 
 ```text
-🎯 Databricks Data Engineer Associate Certification
+📚 Studying for Databricks Data Engineer Associate Certification
 🔬 VR Research — Agrilo Project (TEC + MacEwan University, Canada)
-🤖 AI-Assisted Development — Multi-agent workflows with Claude Code
-🔒 Security — Web exploitation & cryptographic analysis
+🤖 Learning AI-assisted development workflows with Claude Code
+🔒 Exploring security — CTFs, web exploitation & crypto challenges
 ```
 
 ---
