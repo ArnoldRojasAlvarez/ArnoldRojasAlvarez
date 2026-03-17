@@ -1,98 +1,162 @@
-<div align="center">
+<h1 align="center">Arnold Jafeth Alvarez Rojas</h1>
 
-<img src="https://readme-typing-svg.demolabs.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Artox+%F0%9F%91%BE;Software+Engineering+Student;Assembly+Enthusiast;Building+cool+things" alt="Typing SVG" />
+<p align="center">
+  <strong>Computer Engineering Student | VR Developer | Data Engineering | Security</strong>
+</p>
 
-<br/>
-
-[![Location](https://img.shields.io/badge/San%20Carlos%2C%20Costa%20Rica-%F0%9F%87%A8%F0%9F%87%B7-blue?style=flat-square)](https://github.com/ArnoldRojasAlvarez)
-[![TEC](https://img.shields.io/badge/TEC-Tecnol%C3%B3gico%20de%20Costa%20Rica-003DA5?style=flat-square&logoColor=white)](https://www.tec.ac.cr)
-
-</div>
-
----
-
-## About Me
-
-Software Engineering student at **Tecnologico de Costa Rica (TEC)**, based in San Carlos. Passionate about low-level programming — especially **x86 Assembly** — and always exploring everything from IoT and smart systems to game development and systems programming.
-
-- Currently studying Software Engineering at TEC
-- Deep passion for **Assembly** and understanding how computers really work
-- Exploring **IoT**, **Rust**, and **game development**
-- Always up for a challenge that sits close to the metal
+<p align="center">
+  <a href="https://www.tec.ac.cr"><img src="https://img.shields.io/badge/TEC-Costa%20Rica-003DA5?style=flat-square" alt="TEC"/></a>
+  <img src="https://img.shields.io/badge/San%20Carlos-Costa%20Rica-blue?style=flat-square" alt="Location"/>
+  <a href="https://www.linkedin.com/in/arnoldjafethalvarezrojas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ArnoldRojasAlvarez&style=flat-square&color=7AA2F7" alt="Profile views"/>
+</p>
 
 ---
 
-## Tech Stack
+### About Me
 
-**Languages**
+Computer Engineering student at **Instituto Tecnologico de Costa Rica (TEC)** with hands-on experience in **VR development**, **data analysis pipelines**, and **software security**. Currently collaborating on an international research project with **MacEwan University (Canada)**, building VR simulations for Meta Quest with Unity. Experienced in leveraging generative AI tools to accelerate development workflows.
 
-![Assembly](https://img.shields.io/badge/Assembly-x86%2F8086-6E4C9F?style=flat-square&logo=assemblyscript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Domains**
-
-![IoT](https://img.shields.io/badge/IoT-Smart%20Devices-00B4D8?style=flat-square)
-![Systems Programming](https://img.shields.io/badge/Systems-Low--Level%20Programming-6E4C9F?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-Sockets%20%26%20Threads-F77F00?style=flat-square)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-3D%20%26%20360%C2%B0-2D9CDB?style=flat-square)
+- Working toward the **Databricks Data Engineer Associate** certification
+- Building VR training environments for **Meta Quest** with Unity & C#
+- International collaboration experience with biweekly presentations in English
+- Background in **security auditing** (Kali Linux, web exploitation, cryptographic analysis)
 
 ---
 
-## Featured Projects
+### Tech Stack
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>💡 tapo-beats</h3>
-      <p>Music-reactive smart lighting for TP-Link Tapo bulbs. Real-time beat detection, Alexa voice control, 7 visualization modes, and a web dashboard.</p>
-      <a href="https://github.com/ArnoldRojasAlvarez/tapo-beats">
-        <img src="https://img.shields.io/badge/View%20Repo-tapo--beats-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </a>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Assembly-x86-6E4C9F?style=flat-square&logo=assemblyscript&logoColor=white"/>
     </td>
-    <td width="50%">
-      <h3>💬 Chat-online-en-Ensamblador</h3>
-      <p>A fully functional online chat application written entirely in <strong>x86 Assembly</strong>. Real-time networking at the bare metal level.</p>
-      <a href="https://github.com/ArnoldRojasAlvarez/Chat-online-en-Ensamblador">
-        <img src="https://img.shields.io/badge/View%20Repo-Chat%20en%20ASM-6E4C9F?style=flat-square&logo=assemblyscript&logoColor=white" />
-      </a>
+  </tr>
+  <tr>
+    <td><strong>Data & Analytics</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>VR & 3D</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Meta%20Quest-1C1E20?style=flat-square&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenXR-5B9BD5?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web%20Exploitation-E34F26?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cryptographic%20Analysis-2C2C2C?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & GenAI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude%20Code-D4A574?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-7B68EE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20Workflows-FF6F61?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## GitHub Stats
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💡 tapo-beats</h4>
+      <p>Music-reactive smart lighting for TP-Link Tapo bulbs. Real-time FFT beat detection, custom Alexa Skill voice control, 7 visualization modes, and a Flask web dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Alexa-00CAFF?style=flat-square&logo=amazon-alexa&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ArnoldRojasAlvarez/tapo-beats"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%">
+      <h4>💬 Chat online en Ensamblador</h4>
+      <p>Fully functional online chat application written entirely in <strong>x86 Assembly</strong>. Real-time multi-user networking with sockets at the bare metal level.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Assembly-x86-6E4C9F?style=flat-square&logo=assemblyscript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Networking-Sockets-F77F00?style=flat-square"/>
+      </p>
+      <a href="https://github.com/ArnoldRojasAlvarez/Chat-online-en-Ensamblador"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🦀 Programming Language 1 (Rust)</h4>
+      <p>Multi-threaded socket-based application built in <strong>Rust</strong> for learning systems programming concepts — concurrency, networking, and memory safety.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Threads-Concurrency-E34F26?style=flat-square"/>
+      </p>
+      <a href="https://github.com/ArnoldRojasAlvarez/ProgrammingLenguaje1"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%">
+      <h4>🎮 Unity 360</h4>
+      <p>360-degree VR experience built with Unity for immersive training environments. Part of the foundation for the Agrilo VR research project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ArnoldRojasAlvarez/Unity_360"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Current Focus
+
+```text
+🎯 Databricks Data Engineer Associate Certification
+🔬 VR Research — Agrilo Project (TEC + MacEwan University, Canada)
+🤖 AI-Assisted Development — Multi-agent workflows with Claude Code
+🔒 Security — Web exploitation & cryptographic analysis
+```
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArnoldRojasAlvarez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldRojasAlvarez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldRojasAlvarez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ArnoldRojasAlvarez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ArnoldRojasAlvarez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnoldRojasAlvarez)
-
-<img src="https://komarev.com/ghpvc/?username=ArnoldRojasAlvarez&style=flat-square&color=7AA2F7" alt="Profile views" />
 
 </div>
