@@ -17,18 +17,19 @@ From x86 Assembly to VR research — I learn by building close to the metal.
 
 ---
 
-## About
+## <samp>0x01</samp> · About
 
 Computer Engineering student at the **Instituto Tecnologico de Costa Rica (TEC)**. I'm part of **Agrilo**, an international research project between TEC and **MacEwan University (Canada)**, where I build VR lab simulations for Meta Quest with Unity and C# — custom URP shaders, drop-by-drop pipette physics, and interactions validated on headset.
 
-What I'm focused on right now:
+```asm
+; -------- current focus --------
+mov  eax, vr_research        ; Agrilo — VR lab sims for Meta Quest (Unity / C#)
+mov  ebx, data_engineering   ; Databricks Data Engineer Associate (in progress)
+mov  ecx, security           ; CTFs — web exploitation & crypto challenges
+mov  edx, ai_assisted_dev    ; structured agent workflows with Claude Code
+```
 
-- **VR development** — interaction design, shaders, and physics for VR training environments
-- **Data engineering** — preparing for the Databricks Data Engineer Associate certification
-- **Security fundamentals** — CTFs, web exploitation, and cryptography challenges
-- **AI-assisted development** — structured agent workflows with Claude Code
-
-## Featured projects
+## <samp>0x02</samp> · Featured projects
 
 <table>
   <tr>
@@ -74,9 +75,9 @@ What I'm focused on right now:
   </tr>
 </table>
 
-## Team collaborations
+## <samp>0x03</samp> · Team collaborations
 
-Projects where I contribute as part of a development team:
+Projects where I contribute as part of a development team — my work is traceable through merged pull requests:
 
 | Project | My contribution | Stack |
 |---|---|---|
@@ -84,7 +85,7 @@ Projects where I contribute as part of a development team:
 | [Operating Systems Project](https://github.com/ArnoldRojasAlvarez/Operating-Systems-Project) | Observability stack (Prometheus, Grafana, Loki), WebSocket pub/sub endpoint, chaos scenario injection, batch CLI client, 39+ unit tests, CI | Python, Docker |
 | [Operating Systems Project 2](https://github.com/ArnoldRojasAlvarez/Operating-Systems-Project-2) | Worker pipeline applying Object Pool, Bulkhead, Strategy, and Decorator patterns | Python |
 
-## Tools and technologies
+## <samp>0x04</samp> · Tools and technologies
 
 <table>
   <tr>
@@ -139,6 +140,6 @@ Projects where I contribute as part of a development team:
 
 <div align="center">
 
-Full project portfolio at <a href="https://arnoldrojasalvarez.github.io"><strong>arnoldrojasalvarez.github.io</strong></a>
+<samp>ret &nbsp;&nbsp;; full portfolio at <a href="https://arnoldrojasalvarez.github.io"><strong>arnoldrojasalvarez.github.io</strong></a></samp>
 
 </div>
