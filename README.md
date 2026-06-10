@@ -7,7 +7,7 @@
 From x86 Assembly to VR research — I learn by building close to the metal.
 
 <p>
-  <a href="https://arnoldrojasalvarez.github.io"><img src="https://img.shields.io/badge/Portfolio-arnoldrojasalvarez.github.io-00A887?style=flat-square&labelColor=1F2328" alt="Portfolio"/></a>
+  <a href="https://arnoldrojasalvarez.github.io"><img src="https://img.shields.io/badge/Portfolio-arnoldrojasalvarez.github.io-00A887?style=flat-square&labelColor=1F2328" alt="Portafolio"/></a>
   <a href="https://www.linkedin.com/in/arnoldjafethalvarezrojas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.tec.ac.cr"><img src="https://img.shields.io/badge/TEC-Costa%20Rica-003DA5?style=flat-square" alt="TEC Costa Rica"/></a>
   <img src="https://img.shields.io/badge/San%20Carlos-Costa%20Rica-1F2328?style=flat-square" alt="San Carlos, Costa Rica"/>
